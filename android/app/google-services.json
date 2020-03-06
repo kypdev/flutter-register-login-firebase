@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563154122209",
+    "firebase_url": "https://flutter-custom-user-auth.firebaseio.com",
+    "project_id": "flutter-custom-user-auth",
+    "storage_bucket": "flutter-custom-user-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563154122209:android:8d132310bfa687c4a20ea0",
+        "android_client_info": {
+          "package_name": "com.kypdev.firebase_user_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563154122209-n874tsl9goqr0sepc7gavlp68ro1f2q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3E8DWu0ZkkY9C28O_aUzzjbV7eDmy0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563154122209-n874tsl9goqr0sepc7gavlp68ro1f2q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
